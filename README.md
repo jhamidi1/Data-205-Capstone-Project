@@ -1,7 +1,5 @@
-# Data-205-Capstone-Project
-# Neighborhood Socioeconomic Analysis - By Jathiya Hamidi
-
-## Data 205 Capstone Project
+## Data 205 Capstone Project - By Jathiya Hamidi
+Neighborhood Socioeconomic Analysis
 
 ## Overview
 Do differences in education really shape income and poverty across communities?
